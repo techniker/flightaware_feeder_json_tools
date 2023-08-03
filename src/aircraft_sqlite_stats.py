@@ -1,3 +1,6 @@
+#Simple tool for writing json aircraft data into a sqlite DB
+# Bjoern Heller <tec(att)sixtopia.net>
+
 import requests
 import time
 import sqlite3
